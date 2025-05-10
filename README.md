@@ -29,7 +29,7 @@ The Arduino handles raw data acquisition and signal conditioning.
 
 Below is a visualization of the project structure and how each file/module contributes to the system:
 
-[Project Visualization](https://github.com/dz-enigmatologist/Photoglottography/blob/main/Diagram%20of%20Project%20folders.png) 
+![Project Visualization](https://github.com/dz-enigmatologist/Photoglottography/blob/main/Diagram%20of%20Project%20folders.png) 
 
 ## 📷 Device Photo
 
