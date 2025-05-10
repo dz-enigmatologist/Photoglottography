@@ -1,7 +1,7 @@
 # Photoglottography
 
 ## 📌 Abstract
-This project aims to develop an infrared (IR) sensor system capable of detecting glottal stops by monitoring the opening and closing of the vocal folds through the throat. By positioning an IR emitter and detector externally on the neck, the system captures real-time data reflecting glottal activity, which can be particularly useful for voice research and speech therapy tools.
+This project aims to develop a non-invasive, infrared (IR) sensor system capable of detecting glottal stops by monitoring the opening and closing of the vocal folds through the throat. By positioning an IR emitter and detector externally on the neck, the system captures real-time data reflecting glottal activity, which can be particularly useful for voice research and speech therapy tools.
 
 
 ## ❓ What is a Glottal Stop?
@@ -12,21 +12,24 @@ A glottal stop is a type of consonantal sound used in many spoken languages, pro
 
 The project is organized into three key modules:
 
-### 1. [Sensor Module](https://github.com/dz-enigmatologist/Photoglottography/blob/main/README.md)
+### 1. [The Book of Vaughan: Sensor Module](https://github.com/dz-enigmatologist/Photoglottography/blob/main/The%20Book%20of%20Vaughan%20OG.pdf)
 Responsible for receiving IR signals through the throat tissue and detecting vocal fold closure based on signal interruptions.
 
-### 2. [Light Emission Module](https://github.com/dz-enigmatologist/Photoglottography/blob/main/README.md)
+### 2. [Let there Be Light: Light Emission Module](https://github.com/dz-enigmatologist/Photoglottography/blob/main/Let%20There%20be%20Light.pdf)
 Generates the IR light that passes through the neck and reflects glottal movement dynamics.
 
-### 3. [Interactive Display & Arduino Code](https://github.com/dz-enigmatologist/Photoglottography/blob/main/README.md)
-Processes sensor output and displays real-time plots of glottal activity. The Arduino handles raw data acquisition and signal conditioning.
+### 3. [The Craft Stack: [Interactive Display](https://github.com/dz-enigmatologist/Photoglottography/blob/main/README.md)
+Processes sensor output and displays real-time plots of glottal activity. 
+
+### 4. [The Craft Stack: Arduino Code](https://github.com/dz-enigmatologist/Photoglottography/blob/main/README.md
+The Arduino handles raw data acquisition and signal conditioning.
 
 
 ## 🗂️ Project Structure
 
 Below is a visualization of the project structure and how each file/module contributes to the system:
 
-
+[Project Visualization](path/to/device-photo.jpg) 
 
 ## 📷 Device Photo
 
@@ -41,6 +44,7 @@ Below is a visualization of the project structure and how each file/module contr
 
 ## 📬 Contact
 
+[Original google drive](https://drive.google.com/drive/folders/1_Va6REhuKCYwrKl3kBNBWOJkdkvQYXuF)
 For more information or collaboration inquiries, please contact:
 
 **dz-enigmatologist**  
