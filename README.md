@@ -12,16 +12,16 @@ A glottal stop is a type of consonantal sound used in many spoken languages, pro
 
 The project is organized into three key modules:
 
-### 1. [The Book of Vaughan: Sensor Module](https://github.com/dz-enigmatologist/Photoglottography/blob/main/The%20Book%20of%20Vaughan%20OG.pdf)
+### 1. The Book of Vaughan: [Sensor Module](https://github.com/dz-enigmatologist/Photoglottography/blob/main/The%20Book%20of%20Vaughan%20OG.pdf)
 Responsible for receiving IR signals through the throat tissue and detecting vocal fold closure based on signal interruptions.
 
-### 2. [Let there Be Light: Light Emission Module](https://github.com/dz-enigmatologist/Photoglottography/blob/main/Let%20There%20be%20Light.pdf)
+### 2. Let there Be Light: [Light Emission Module](https://github.com/dz-enigmatologist/Photoglottography/blob/main/Let%20There%20be%20Light.pdf)
 Generates the IR light that passes through the neck and reflects glottal movement dynamics.
 
-### 3. [The Craft Stack: [Interactive Display](https://github.com/dz-enigmatologist/Photoglottography/blob/main/README.md)
+### 3. The Craft Stack: [Interactive Display](https://github.com/dz-enigmatologist/Photoglottography/blob/main/README.md)
 Processes sensor output and displays real-time plots of glottal activity. 
 
-### 4. [The Craft Stack: Arduino Code](https://github.com/dz-enigmatologist/Photoglottography/blob/main/README.md
+### 4. The Craft Stack: [Arduino Code](https://github.com/dz-enigmatologist/Photoglottography/blob/main/README.md)
 The Arduino handles raw data acquisition and signal conditioning.
 
 
@@ -29,7 +29,7 @@ The Arduino handles raw data acquisition and signal conditioning.
 
 Below is a visualization of the project structure and how each file/module contributes to the system:
 
-[Project Visualization](path/to/device-photo.jpg) 
+[Project Visualization](https://github.com/dz-enigmatologist/Photoglottography/blob/main/Diagram%20of%20Project%20folders.png) 
 
 ## 📷 Device Photo
 
