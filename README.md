@@ -60,10 +60,10 @@ For more information or collaboration inquiries, please contact:
 🔗 [GitHub Profile](https://github.com/dz-enigmatologist)
 
 **Sensor circuit related questions: Vaughan Altmann**  
-📧 [valtmann@ucsd.edu ]  
+📧 [valtmann@ucsd.edu]  
 
 **Light circuit related questions: Erica Yang**  
-📧 [eryang@ucsd.edu @ucsd.edu ]  
+📧 [eryang@ucsd.edu]  
 
 **Integrating the project and background related questions: Isabelle Villegas**  
-📧 [irvillegas@ucsd.edu @ucsd.edu @ucsd.edu ]  
+📧 [irvillegas@ucsd.edu]  
