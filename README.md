@@ -18,10 +18,10 @@ Responsible for receiving IR signals through the throat tissue and detecting voc
 ### 2. Let there Be Light: [Light Emission Module](https://github.com/dz-enigmatologist/Photoglottography/blob/main/Let%20There%20be%20Light.pdf)
 Generates the IR light that passes through the neck and reflects glottal movement dynamics.
 
-### 3. The Craft Stack: [Interactive Display](https://github.com/dz-enigmatologist/Photoglottography/blob/main/README.md)
+### 3. The Craft Stack: [Interactive Display](https://github.com/dz-enigmatologist/Photoglottography/blob/main/The%20Craft%20Stack/python_code_lights_sensor.ipynb)
 Processes sensor output and displays real-time plots of glottal activity. 
 
-### 4. The Craft Stack: [Arduino Code](https://github.com/dz-enigmatologist/Photoglottography/blob/main/README.md)
+### 4. The Craft Stack: [Arduino Code](https://github.com/dz-enigmatologist/Photoglottography/blob/main/The%20Craft%20Stack/arduino_code.ino)
 The Arduino handles raw data acquisition and signal conditioning.
 
 
