@@ -7,6 +7,12 @@ This project aims to develop a non-invasive, infrared (IR) sensor system capable
 ## ❓ What is a Glottal Stop?
 A glottal stop is a type of consonantal sound used in many spoken languages, produced by obstructing airflow in the vocal tract or, more precisely, at the glottis. In English, it can be heard in the break between the syllables of "uh-oh." During a glottal stop, the vocal folds come together completely, momentarily stopping the flow of air, before releasing it—this physical motion is what the system detects.
 
+## 🗂️ Project Structure
+
+Below is a visualization of the project structure and how each file/module contributes to the system:
+
+![Project Visualization](https://github.com/dz-enigmatologist/Photoglottography/blob/main/Diagram%20of%20Project%20folders.png) 
+
 
 ## 🔧 Project Components
 
@@ -24,12 +30,9 @@ Processes sensor output and displays real-time plots of glottal activity.
 ### 4. The Craft Stack: [Arduino Code](https://github.com/dz-enigmatologist/Photoglottography/blob/main/The%20Craft%20Stack/arduino_code.ino)
 The Arduino handles raw data acquisition and signal conditioning.
 
+### 5. The Armoury: [Final .stl files](https://drive.google.com/drive/u/1/folders/1FsJB1t9gWYJi0IkUiDz7C2_1js43ds3j)
+This folder includes all the final .stl files that were optimized for the respective components that they house.
 
-## 🗂️ Project Structure
-
-Below is a visualization of the project structure and how each file/module contributes to the system:
-
-![Project Visualization](https://github.com/dz-enigmatologist/Photoglottography/blob/main/Diagram%20of%20Project%20folders.png) 
 
 ## 📷 Device Photo
 
