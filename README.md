@@ -33,7 +33,7 @@ Below is a visualization of the project structure and how each file/module contr
 
 ## 📷 Device Photo
 
-![Device Image]<img src="https://github.com/dz-enigmatologist/Photoglottography/blob/main/temp_device_photo.jpeg?raw=true" width="25%">  
+<img src="https://github.com/dz-enigmatologist/Photoglottography/blob/main/temp_device_photo.jpeg?raw=true" width="25%">  
 *A prototype of the wearable photoglottography system.*
 
 
