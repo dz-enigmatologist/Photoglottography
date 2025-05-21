@@ -47,8 +47,23 @@ Below is a visualization of the project structure and how each file/module contr
 [Original google drive](https://drive.google.com/drive/folders/1_Va6REhuKCYwrKl3kBNBWOJkdkvQYXuF)
 For more information or collaboration inquiries, please contact:
 
-**dz-enigmatologist**  
-📧 [your-email@example.com]  
+***Faculty Advisors:***
+**Will Styler**  
+📧 [wstyler@ucsd.edu] 
+
+**Marc Garellek**  
+📧 [mgarellek@ucsd.edu] 
+
+***Students involved:***
+**Code related questions: Deepta Bharadwaj | dz-enigmatologist**  
+📧 [deepta.bharadwaj17@gmail.com]  
 🔗 [GitHub Profile](https://github.com/dz-enigmatologist)
 
+**Sensor circuit related questions: Vaughan Altmann**  
+📧 [valtmann@ucsd.edu ]  
 
+**Light circuit related questions: Erica Yang**  
+📧 [eryang@ucsd.edu @ucsd.edu ]  
+
+**Integrating the project and background related questions: Isabelle Villegas**  
+📧 [irvillegas@ucsd.edu @ucsd.edu @ucsd.edu ]  
