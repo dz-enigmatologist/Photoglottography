@@ -15,7 +15,7 @@ The project is organized into three key modules:
 ### 1. The Book of Vaughan: [Sensor Module](https://github.com/dz-enigmatologist/Photoglottography/blob/main/The%20Book%20of%20Vaughan%20OG.pdf)
 Responsible for receiving IR signals through the throat tissue and detecting vocal fold closure based on signal interruptions.
 
-### 2. Let there Be Light: [Light Emission Module](https://github.com/dz-enigmatologist/Photoglottography/blob/main/Let%20There%20be%20Light.pdf)
+### 2. Let there Be Light: [Light Emission Module](https://github.com/dz-enigmatologist/Photoglottography/blob/main/Let_There_be_Light.pdf)
 Generates the IR light that passes through the neck and reflects glottal movement dynamics.
 
 ### 3. The Craft Stack: [Interactive Display](https://github.com/dz-enigmatologist/Photoglottography/blob/main/The%20Craft%20Stack/python_code_lights_sensor.ipynb)
