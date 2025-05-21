@@ -42,7 +42,7 @@ This folder includes all the final .stl files that were optimized for the respec
 
 ## 🚀 Scope for Improvement
 
-Based on the current progress and preliminary testing of the Photoglottography Project, several areas of improvement have been identified. First, we would like to implement adjustable/variable resistor values (i.e. with a potentiometer) in the amplification stages, though this is more relevant to the transimpedance amplification. Secondly, improvements to the second stage amplifier could include researching a new op amp to replace the LM358. While it does achieve its function well, it is not a rail-to-rail op amp, meaning it cannot amplify a signal to the same magnitude as the power it receives. Additionally, since the photodiode uses reverse biasing, the integration of a dual power supply (so we can have negative voltages) could enhance the photodiode’s responsiveness. Furthermore, consolidating the filtering and amplification functions with a lock-in amplifier may improve signal isolation and reduce noise. Finally, improving light insulation and sensor placement may reduce baseline variability and improve the reliability of measurements during in vivo testing, with the predominant issue being the linearity of the lights. These improvements will be explored in the next phase of the project to ensure greater accuracy and robustness of the photoglottographic system.
+Based on the current progress and preliminary testing of the Photoglottography Project, several areas of improvement have been identified. First, we would like to implement adjustable/variable resistor values (i.e. with a potentiometer) in the amplification stages, though this is more relevant to the transimpedance amplification. Secondly, improvements to the second stage amplifier could include researching a new op amp to replace the LM358. While it does achieve its function well, it is not a rail-to-rail op amp, meaning it cannot amplify a signal to the same magnitude as the power it receives. Additionally, since the photodiode uses reverse biasing, the integration of a dual power supply (so we can have negative voltages) could enhance the photodiode’s responsiveness. Furthermore, consolidating the filtering and amplification functions with a lock-in amplifier may improve signal isolation and reduce noise. Finally, improving light insulation and sensor placement may reduce baseline variability and improve the reliability of measurements during in vivo testing, with the predominant issue being the linearity of the lights. These improvements will be explored in the next phase of the project to ensure greater accuracy and robustness of the photoglottographic system. 
 
 
 ## 📬 Contact
@@ -55,7 +55,11 @@ For more information or collaboration inquiries, please contact:
 📧 [wstyler@ucsd.edu] 
 
 **Marc Garellek**  
-📧 [mgarellek@ucsd.edu] 
+📧 [mgarellek@ucsd.edu]
+
+***Makerspace Advisors:***
+**David Lesser**  
+📧 Available in person at UCSD Makerspace for detailed help 
 
 ***Students involved:***
 **Code related questions: Deepta Bharadwaj | dz-enigmatologist**  
